@@ -61,13 +61,6 @@
   <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a>
   <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a>
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a>
-
-  <!-- Blockchain specific -->
-  <a href="https://soliditylang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/solidity/solidity-original.svg" alt="solidity" width="40" height="40"/> </a>
-  <a href="https://hardhat.org" target="_blank" rel="noreferrer"> <img src="https://hardhat.org/favicon.ico" alt="hardhat" width="40" height="40" style="border-radius:8px"/> </a>
-  <a href="https://trufflesuite.com" target="_blank" rel="noreferrer"> <img src="https://trufflesuite.com/assets/images/truffle-logo.svg" alt="truffle" width="40" height="40" /> </a>
-  <a href="https://ethereum.org/en/developers/docs/apis/javascript/" target="_blank" rel="noreferrer"> <img src="https://ethereum.org/static/6a8d742230d4a1962e81409892c4655f/fd3a5/ethersjs-logo.png" alt="ethersjs" width="40" height="40"/> </a>
-  <a href="https://ipfs.tech/" target="_blank" rel="noreferrer"> <img src="https://ipfs.tech/static/images/ipfs-logo.svg" alt="ipfs" width="40" height="40"/> </a>
 </p>
 
 ---
